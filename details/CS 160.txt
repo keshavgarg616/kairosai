@@ -1,0 +1,7 @@
+Here's a brief description of CS 160, based on the provided text, in a bulleted format:
+
+*   **Title:** Object-Oriented Programming<br>
+*   **Credits:** 4 credits<br>
+*   **Prerequisites:** CICS 110 (previously INFO 190S) or COMPSCI 121 with a grade of C or better.<br>
+*   **Course Details:** Students will be exposed to programming practices beyond the introductory level. It will concentrate on Object Oriented Programming techniques and Data Structures. The course will also study and analyze the complexity of algorithms presented and developed. Experience with the development and analysis of recursive algorithms and programs will also be provided. Students are expected to have experience in input and output operations, conditional statements, loops, arrays, recursion, and functions/methods. Emphasis is placed on the careful design and testing of programs.
+*   **Frequency:** Offered in Fall and Spring semesters.

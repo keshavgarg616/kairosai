@@ -1,0 +1,6 @@
+CICS 689: Machine Learning
+
+*   Prerequisites: COMPSCI 311 (grade of C or better).
+*   Credits: 3
+*   Offered: Fall semester.
+*   Course Description: Focuses on machine learning.

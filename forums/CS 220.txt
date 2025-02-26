@@ -1,0 +1,1 @@
+['hi whens the test', '17th july 2017', 'cs 220 is a corse on programming methadology', 'the test might be cancelled because of strong wind']

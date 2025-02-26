@@ -1,0 +1,15 @@
+Here is a description of COMPSCI 230, based on the provided document excerpts:
+
+Course Details:
+  Introduction to C data representation, modern architectures, assembly languages, and operating system services (I/O, process, and synchronization).<br>
+
+Prerequisites:
+  CICS 210 (or COMPSCI 187) with a grade of C or better.<br>
+  COMPSCI 198C. <br>
+  Equivalent experience in the C programming language is accepted.<br>
+
+Additional Notes:
+  The course focuses on the scientific principles behind the construction of high-performance, scalable systems.<br>
+  Assumes students have some knowledge in the C programming language.<br>
+  4 credits.<br>
+  Offered in Fall and Spring. <br>

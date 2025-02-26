@@ -1,0 +1,4 @@
+CS 220: Programming Methodology
+
+Prerequisite: CICS 210 (or COMPSCI 187) with a grade of C or better.<br>
+Course Description: Development of individual skills necessary for designing, implementing, testing and modifying larger programs. Topics include design strategies and patterns, using functional and object-oriented approaches, testing and program verification, code refactoring, interfacing with libraries. Significant programming and mid-term and final examinations.

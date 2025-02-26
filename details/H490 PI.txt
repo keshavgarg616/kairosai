@@ -1,0 +1,7 @@
+Here is a description of INFO H490PI based on the provided course descriptions and offering plans:
+
+*   Course Name: INFO H490PI: Honors Colloquium for Personal Health Informatics
+*   Prerequisites: INFO 248 (or COMPSCI 240) and CICS 210 (or COMPSCI 186 or COMPSCI 187)all with a grade of C or better.
+*   Course Details: This colloquium will dive deeper into issues related to design of personal health technologies. You will study examples of existing platforms, read relevant publications, and will produce a critical reflection on the state and future direction of the field.
+*   Credits: Not explicitly stated but likely 1 credit given it's an honors colloquium add-on to INFO 490PI.
+*   Frequency: Spring<br>

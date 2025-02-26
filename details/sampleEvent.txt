@@ -1,0 +1,3 @@
+sampleEvent: CICS 109: Introduction to Data Analysis in R<br>
+Prerequisites: Some familiarity with statistics is expected.<br>
+Course Details: Introduction to data analysis in R, covering data wrangling, summary statistics, modeling, and visualization. Fundamental programming concepts are also included. 1 credit.

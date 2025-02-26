@@ -1,0 +1,8 @@
+Here's a description of COMPSCI 240, based on the provided text, formatted as requested:
+
+*   Title: Reasoning Under Uncertainty<br>
+*   Instructor: Mark Wilson<br>
+*   Credits: 4<br>
+*   Prerequisites: CICS 160 (previously INFO 190T or COMPSCI 187) or CICS 210 and MATH 132, all with a grade of C or better.<br>
+*   Course Details: Development of mathematical reasoning skills for problems that involve uncertainty. Concepts are illustrated with real-world examples and exercises. Topics include counting and probability, probabilistic reasoning, and statistical topics (estimation of parameters and linear regression, as time permits).<br>
+*   Frequency: Fall and Spring

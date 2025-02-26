@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Add Event</title>
+        <style>
+
+            body{
+                background-image: url('/static/img/bg_hackher.jpg');
+                background-size: cover;
+                background-color: rgba(0, 0, 0, 0.4);
+                background-blend-mode: multiply;
+                text-align: center;
+            }
+
+            .input-event-sequence{
+                display: block;
+                align-self: center;
+                margin: 20px;
+            }
+
+            .textboxes{
+                width : 20%;
+                padding: 12px;
+                border: none;
+                margin: 30px;
+                border-radius: 20px;
+            }
+
+            .blurb {
+                background-color: #fff1f8;
+                border-radius: 20px;
+                margin: 30px;
+                padding: 20px;
+                padding-top: 5px;
+                text-align: center;
+            }
+
+            .button {
+                background-color: white;
+                border: none;
+                font-size: 1.2em;
+                border-radius: 40px;
+                height: 50%;
+                margin-top: 0px;
+                padding: 10px;
+            }
+
+        </style>
+    </head>
+<body>
+    <div class="blurb">
+    <div class="input-event-sequence"></div>
+    <form class='labels' action="/addEvent" method="POST">
+        Name: <input class="textboxes" type="text" id="event-name" name="event-name" /><br>
+        Tag: <input class="textboxes" type="text" id="tag" name="tag" /><br>
+        Day: <input class="textboxes" type="text" id="day" name="day" /><br>
+        Timings: <input class="textboxes" type="text" id="start-timing" name="start-timing" /> - <input class="textboxes" type="text" id="end-timing" name="end-timing" /><br>
+        <input class='button' type="submit" value="Add event" />
+    </form>
+    </div>
+    <form action="/">
+        <button class="button" type="submit">Go back</button>
+    </form>
+</div>
+</body>
+</html>
